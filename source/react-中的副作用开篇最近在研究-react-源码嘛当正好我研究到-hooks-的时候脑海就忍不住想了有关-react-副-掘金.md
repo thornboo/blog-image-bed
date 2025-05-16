@@ -10,7 +10,7 @@ toc: true
 
 
 
-# react中的副作用？开篇 最近在研究react源码嘛，当正好我研究到hooks的时候，脑海就忍不住想了有关react副 - 掘金
+# react中的副作用？开篇 最近在研究react源码嘛，当正好我研究到hooks的时候，脑海就忍不住想了有关react副作用 - 掘金
 
 ---
 
